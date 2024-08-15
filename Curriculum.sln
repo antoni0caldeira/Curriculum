@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35201.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurriculumMVC", "CurriculumMVC\CurriculumMVC.csproj", "{E56E099E-10ED-49FF-9DCF-190562FB0543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E56E099E-10ED-49FF-9DCF-190562FB0543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E56E099E-10ED-49FF-9DCF-190562FB0543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E56E099E-10ED-49FF-9DCF-190562FB0543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E56E099E-10ED-49FF-9DCF-190562FB0543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89270DD6-9944-4CEF-878E-33422C95FE9F}
+	EndGlobalSection
+EndGlobal
